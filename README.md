@@ -7,11 +7,13 @@ A simple command-line 2-Player Math Game built with Ruby. Players take turns ans
 ### Clone the repository:
 
 git clone https://github.com/Mpalko07/TwO-O-Player_Math_Game.git
+
 cd 2-player-math-game
 
 ### Run the game:
 
 ruby main.rb
+
 Follow the prompts to enter player names and answer questions.
 
 ### Gameplay:
