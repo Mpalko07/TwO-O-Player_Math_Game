@@ -1,12 +1,13 @@
-#2-Player Math Game
+# 2-Player Math Game
 
 A simple command-line 2-Player Math Game built with Ruby. Players take turns answering math addition questions. Each incorrect answer results in a lost life. The game continues until one player loses all their lives.
 
-##How to Play
+## How to Play
 
 Clone the repository:
 
 git clone https://github.com/Mpalko07/TwO-O-Player_Math_Game.git
+
 cd 2-player-math-game
 
 Run the game:
